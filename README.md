@@ -16,9 +16,4 @@ A responsive and modern signup/login form built with **React** and **CSS**, feat
 - Built with **Create React App**
 
 ---
-## 🛠 Tech Stack
-- **React.js**
-- **CSS3**
-- **JavaScript (ES6+)**
 
----
